@@ -2,5 +2,5 @@ Wealth data from Saez and Zucman's wealthtaxsimulator.org GitHub repo: https://g
 
 This file is downloaded with the command:
 ```
-https://github.com/BITSS/opa-wealthtax/blob/master/analysis_data/wealth.dta?raw=true
+wget https://github.com/BITSS/opa-wealthtax/blob/master/analysis_data/wealth.dta?raw=true
 ```
