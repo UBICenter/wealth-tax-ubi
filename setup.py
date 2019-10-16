@@ -2,7 +2,8 @@ from setuptools import setup
 
 setup(name='wealthtaxubi',
       version='0.1',
-      description='Analysis and tool showing the effects on wealth inequality of a wealth-tax-funded UBI.',
+      description=('Analysis and tool showing the effects on wealth inequality '
+                   'of a wealth-tax-funded UBI.'),
       url='http://github.com/UBICenter/wealth-tax-ubi',
       author='Max Ghenis',
       author_email='max@ubicenter.org',
