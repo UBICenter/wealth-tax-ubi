@@ -9,4 +9,4 @@ dependencies:
 - pytest
 - setuptools
 - pip:
-  - "--editable=git+https://github.com/MaxGhenis/microdf.git"
+  - "--editable=git+https://github.com/MaxGhenis/microdf.git#egg=microdf-master"
